@@ -1,5 +1,9 @@
 <h1>This is a repository for links to click when using a chromebook filter bypass</h1>
 <h2>Why not support the girl that made this? Join the discord! https://discord.gg/GvwnRpRkSN</h2>
+
+<h2>Silly redirector <s>that i</s> chatgpt made</h2>
+<h3>https://endearing-torte-5e5d43.netlify.app/</h3>
+
 <h2>Some useful links:</h2>
 
 <h3>https://www.google.com/</h3>
